@@ -3,4 +3,4 @@ import os
 
 load_dotenv()
 
-BOT_TOKEN = os.environ.get('BOT_TOKEN')
+BOT_TOKEN = "6289589949:AAFz53nui7kVW-MczA0_2bZNY50aW88UggU"
